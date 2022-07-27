@@ -18,6 +18,7 @@ Example topics will be comparison of proxies, their gas, size, ect. Other talks 
 ## Links
 
 - [Meetup.com Group](https://www.meetup.com/web3-on-chain-dev-meetup-group/)
+- [GitHub repository](https://github.com/gweicz/beerfi)
 - [Youtube Channel](https://www.youtube.com/channel/UCx6X-hMBDO7IXQE48QUWXOw)
 
 ## Maintainers
