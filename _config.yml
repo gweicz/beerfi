@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: BeerFi Prague
+description: Web3 on-chain dev meetup
+github:
+  is_project_page: false
