@@ -24,5 +24,5 @@ Example topics will be comparison of proxies, their gas, size, ect. Other talks 
 ## Maintainers
 
 - Ethan Clime
-- Radek Švarz
-- tree
+- Radek Švarz ([@radk](https://twitter.com/radk))
+- tree ([@treecz](https://twitter.com/treecz))
