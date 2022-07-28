@@ -11,7 +11,7 @@ Example topics will be comparison of proxies, their gas, size, ect. Other talks 
 
 | Name | Date | Location |
 | --- | --- | --- |
-| BeerFi #3 | 2022-08-23 | TBD |
+| BeerFi #3 | 2022-08-30 | TBD |
 | [BeerFi #2](events/2022-07-26-beerfi2) | 2022-07-26 | Paralelní Polis |
 | [BeerFi #1](events/2022-06-21-beerfi1) | 2022-06-21 | - |
 
