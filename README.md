@@ -8,21 +8,30 @@ The meetup is focused on contract development. Very tech stuff - down to the byt
 Example topics will be comparison of proxies, their gas, size, ect. Other talks will be about cross chain / layer calls, blind signing, security, clever hacks, and more. Regarding contracts level - any smart contracts, i.e. not limited to EVM based.
 
 ## Events
-
+### Planned
 | Name | Date | Location |
 | --- | --- | --- |
-| BeerFi #3 | 2022-08-30 | TBD |
+| [BeerFi #3](events/2022-08-30-beerfi3) | 2022-08-30 | VR Park (Vaclavak22) |
+
+### Past events
+| Name | Date | Location |
+| --- | --- | --- |
 | [BeerFi #2](events/2022-07-26-beerfi2) | 2022-07-26 | Paralelní Polis |
 | [BeerFi #1](events/2022-06-21-beerfi1) | 2022-06-21 | - |
 
-## Links
+## Contact us
+Have questions or want to share something cool with us? Join our community group on Telegram to get updates or to share knowledge:
 
-- [Meetup.com Group](https://www.meetup.com/web3-on-chain-dev-meetup-group/)
-- [GitHub repository](https://github.com/gweicz/beerfi)
-- [Youtube Channel](https://www.youtube.com/channel/UCx6X-hMBDO7IXQE48QUWXOw)
+- [Telegram](https://t.me/+eA4eMYlEo-k2ZGVk) - community group
+
+## External links
+
+- [Meetup.com](https://www.meetup.com/web3-on-chain-dev-meetup-group/) - RSVP for the meetup
+- [GitHub](https://github.com/gweicz/beerfi) - space for slides and other materials, source code for this website
+- [YouTube](https://www.youtube.com/channel/UCx6X-hMBDO7IXQE48QUWXOw) - recordings from previous meetups
 
 ## Maintainers
 
-- Ethan Clime
-- Radek Švarz ([@radk](https://twitter.com/radk))
-- tree ([@treecz](https://twitter.com/treecz))
+- Ethan Clime ([telegram](https://t.me/ethanclime))
+- Radek Švarz ([twitter](https://twitter.com/radk))
+- tree ([twitter](https://twitter.com/treecz))

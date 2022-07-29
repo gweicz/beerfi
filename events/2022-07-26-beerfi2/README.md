@@ -1,6 +1,6 @@
 # [BeerFi](https://beerfi.gwei.cz) #2 - 2022-07-26
 
-* Date: 26.7.2022
+* Date and time: 26.7.2022 19:00
 * Location: [Paralelní Polis](https://www.paralelnipolis.cz/), Prague
 * RSVP: [Meetup.com event](https://www.meetup.com/web3-on-chain-dev-meetup-group/events/286957069/)
 * Recordings: [YouTube playlist](https://www.youtube.com/watch?v=9ouYqVe0dOo&list=PL91Uw94A3Q_pOQnzcXuDSc4S04USBR2tW)
