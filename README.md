@@ -19,7 +19,7 @@ Example topics will be comparison of proxies, their gas, size, ect. Other talks 
 | Name | Date | Location |
 | --- | --- | --- |
 | [BeerFi #2](events/2022-07-26-beerfi2) | 2022-07-26 | Paralelní Polis |
-| [BeerFi #1](events/2022-06-21-beerfi1) | 2022-06-21 | - |
+| [BeerFi #1](events/2022-06-21-beerfi1) | 2022-06-21 | Manifesto |
 
 ## Contact us
 Have questions or want to share something cool with us? Join our community group on Telegram to get updates or to share knowledge:
